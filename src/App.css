@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+div {
+  display: block;
+  text-align: center;
+  border: solid 1px black;
+}
