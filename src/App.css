@@ -1,7 +1,7 @@
 .App {
   text-align: center;
 }
-div {
+.meal-providers {
   display: block;
   text-align: center;
   border: solid 1px black;
